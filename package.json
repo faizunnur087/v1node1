@@ -1,0 +1,14 @@
+{
+  "name": "v1node1",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Node.js app for v1node1",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "mysql2": "^3.15.3"
+  }
+}
